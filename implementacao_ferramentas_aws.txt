@@ -1,0 +1,42 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: 14/01/2026
+Empresa: Abstergo Industries 
+Responsável: Suzi Terruya
+
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Suzi Terruya. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: 
+- Nome da ferramenta: S3 Intelligent - Tiering
+- Foco da ferramenta: gerencia automaticamente o ciclo de vida dos objetos.
+- Descrição de caso de uso: para dados com padrões de acesso desconhecidos ou em alteração.
+
+Etapa 2: 
+- Nome da ferramenta: Dynamo DB
+- Foco da ferramenta: banco de dados não relacional, serverless, escala automaticamente.
+- Descrição de caso de uso: para muitos dados, baixa latência
+
+Etapa 3: 
+- Nome da ferramenta: Amazon Dynamo DB Accelerator
+- Foco da ferramenta: Camada de cache nativa pra otimizar tempo de leitura de dados.
+- Descrição de caso de uso: Para necessidade de leitura mais rápida de dados.
+
+
+
+## Conclusão
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado automação de gerencia do ciclo de vida dos objetos, leitura de dados NoSQL, serverless, de forma rápida e otimizada, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+## Anexos - Conheça mais sobre as ferramentas nos endereços abaixo.
+
+https://aws.amazon.com/pt/s3/storage-classes/intelligent-tiering/
+https://aws.amazon.com/pt/dynamodb/
+https://aws.amazon.com/pt/dynamodbaccelerator/
+
+Assinatura do Responsável pelo Projeto:
+
+Suzi Sayuri Terruya
